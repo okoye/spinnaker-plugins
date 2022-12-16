@@ -1,9 +1,17 @@
 [
     {
       "id": "Armory.ObservabilityPlugin",
-      "description": "A plugin for configuring and customizing Micrometer for Spinnaker.",
+      "description": "A plugin for configuring and customizing Micrometer for Armory.",
       "provider": "TODO",
       "releases": [
+        {
+          "version": "0.1.6",
+          "date": "2022-12-16T06:35:41.857941Z",
+          "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+          "sha512sum": "57382fa018b4cc227e53d7bb5b039109c4dfe99d9378807ab09b72eaa1b147f84c8febb9b56ebf46404792f25bb5afdaf40ef299df992b22b57c8638321fce35",
+          "state": "",
+          "url": "https://github.com/okoye/spinnaker-plugins/releases/download/v0.1.6/armory-observability-plugin-v0.1.6.zip"
+        },
         {
           "version": "0.1.5",
           "date": "2022-12-14T18:40:55.481609Z",
