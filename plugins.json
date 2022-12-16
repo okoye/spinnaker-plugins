@@ -1,7 +1,7 @@
 [
     {
       "id": "Armory.ObservabilityPlugin",
-      "description": "A plugin for configuring and customizing Micrometer for Armory.",
+      "description": "A plugin for configuring and customizing Micrometer for Spinnaker.",
       "provider": "TODO",
       "releases": [
         {
